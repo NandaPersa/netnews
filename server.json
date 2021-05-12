@@ -1,0 +1,653 @@
+{
+  "posts": [
+    {
+      "id": 26,
+      "date": "2021-05-12T09:28:56",
+      "date_gmt": "2021-05-12T12:28:56",
+      "guid": {
+        "rendered": "http://localhost:8080/?p=26"
+      },
+      "modified": "2021-05-12T09:29:18",
+      "modified_gmt": "2021-05-12T12:29:18",
+      "slug": "aplicativos-do-android-terao-tabela-nutricional",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8080/aplicativos-do-android-terao-tabela-nutricional/",
+      "title": {
+        "rendered": "Aplicativos do Android terão &#8216;tabela nutricional&#8217;"
+      },
+      "content": {
+        "rendered": "\n<p>O&nbsp;<a href=\"https://g1.globo.com/tudo-sobre/google/\">Google</a>&nbsp;anunciou nesta quinta-feira (6) que até o final de 2022, todos os aplicativos hospedados na Play Store, loja oficial do Android, vão precisar&nbsp;detalhar quais dados coletam dos usuários.</p>\n\n\n\n<p>A iniciativa é&nbsp;<a href=\"https://g1.globo.com/economia/tecnologia/noticia/2020/06/23/apple-vai-facilitar-visualizacao-de-quais-informacoes-um-aplicativo-coleta-dos-usuarios.ghtml\">parecida com a &#8220;tabela nutricional&#8221; que a Apple</a>&nbsp;introduziu com o iOS 14.</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>A novidade permitirá visualizar em um só lugar o conjunto de dados que um aplicativo pode coletar para realizar o rastreio do usuário.</p></blockquote>\n\n\n\n<p>As pessoas vão poder ser&nbsp;quais informações os apps têm acesso como localização, contatos ou dados pessoais como endereço de e-mail.</p>\n\n\n\n<p>O Google disse que seus próprios aplicativos vão mostrar essas informações, que poderão aparecer para os usuários&nbsp;a partir do 1º trimestre de 2022&nbsp;– até o 4º trimestre, todos os aplicativos precisarão adotar a nova política.</p>\n\n\n\n<p>A Apple foi alvo de críticas dos criadores de aplicativos ao liberar o novo recurso – segundo eles, a companhia não ofereceu contexto o suficiente para explicar a coleta dos dados.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Apps hospedados na Play Store, loja oficial do sistema, precisarão detalhar quais informações são obtidas. Iniciativa é similar a que a Apple adotou.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 25,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": [
+        
+      ],
+      "categories": [
+        1
+      ],
+      "tags": [
+        
+      ],
+      "uagb_featured_image_src": {
+        "full": [
+          "https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Android_apps.jpg",
+          1000,
+          499,
+          false
+        ],
+        "thumbnail": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare-150x150.jpg",
+          150,
+          150,
+          true
+        ],
+        "medium": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare-300x150.jpg",
+          300,
+          150,
+          true
+        ],
+        "medium_large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare-768x383.jpg",
+          768,
+          383,
+          true
+        ],
+        "large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare.jpg",
+          800,
+          399,
+          false
+        ],
+        "1536x1536": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare.jpg",
+          1000,
+          499,
+          false
+        ],
+        "2048x2048": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare.jpg",
+          1000,
+          499,
+          false
+        ]
+      },
+      "uagb_author_info": {
+        "display_name": "Ananda Sá",
+        "author_link": "http://localhost:8080/author/ananda-sa/"
+      },
+      "uagb_comment_info": 0,
+      "uagb_excerpt": "Apps hospedados na Play Store, loja oficial do sistema, precisarão detalhar quais informações são obtidas. Iniciativa é similar a que a Apple adotou.",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/26"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/comments?post=26"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/26/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 27,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/26/revisions/27"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/media/25"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/media?parent=26"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/categories?post=26"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/tags?post=26"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "date": "2021-05-12T09:23:08",
+      "date_gmt": "2021-05-12T12:23:08",
+      "guid": {
+        "rendered": "http://localhost:8080/?p=23"
+      },
+      "modified": "2021-05-12T09:23:57",
+      "modified_gmt": "2021-05-12T12:23:57",
+      "slug": "ministros-visitam-mt-para-inauguracao-da-internet-5g-no-campo",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8080/ministros-visitam-mt-para-inauguracao-da-internet-5g-no-campo/",
+      "title": {
+        "rendered": "Ministros visitam MT para inauguração da internet 5G no campo"
+      },
+      "content": {
+        "rendered": "\n<p>O ministro das Comunicações, Fábio Faria, e a ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, visitaram Rondonópolis, a 218 km de Cuiabá, nesta terça-feira (11).</p>\n\n\n\n<p>As demonstrações são feitas por operadoras em parceria com a Associação Mato-grossense de Produtores de Algodão e apoio do &#8216;ConectarAGRO&#8217;, associação de empresas de tecnologia voltada para inovações no campo.</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>“Mato Grosso é o &#8216;carro chefe&#8217; da nossa agricultura moderna, que traz todas essas vantagens que o Brasil tem. Mato Grosso é protagonista nessa agricultura de precisão”, disse a ministra durante a visita.</p></blockquote>\n\n\n\n<p>A chegada dessa internet nas fazendas vai aumentar a eficiência e produtividade no campo, além de promover a automatização, com tratores autônomos, máquinas teleoperadas, drones com alta resolução e inteligência artificial.</p>\n\n\n\n<figure class=\"wp-block-image\"><img src=\"https://s2.glbimg.com/wUYHXqvPdQDsee0VYo-SC_-cLv0=/13x301:1236x958/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/4/A/34Iy0qSBu5zV5VqngNxg/whatsapp-image-2021-05-11-at-15.19.36-1-.jpeg\" alt=\"Chegada do 5G deve contribuir para crescimento de 20% no agronegócio — Foto: Edson Rodrigues/Divulgação TIM/Nokia\"/></figure>\n\n\n\n<p>Chegada do 5G deve contribuir para crescimento de 20% no agronegócio — Foto: Edson Rodrigues/Divulgação TIM/Nokia</p>\n\n\n\n<p>Para o ministro Fábio Faria, o 5G deve contribuir para um crescimento de 20% no agronegócio.</p>\n\n\n\n<p>Segundo a ministra Tereza Cristina, com o lançamento do projeto, contribui para o estímulo da economia e geração de novos serviços no agronegócio, incluindo a população no meio digital.</p>\n\n\n\n<p>No evento, foram demonstradas soluções 5G, com altíssima velocidade e baixo tempo de resposta aplicadas ao campo e de que forma a tecnologia pode habilitar aplicações que estimulam a comunicação entre as pessoas e agilizam a gestão de equipamentos.</p>\n\n\n\n<p>Entre as demonstrações, estavam disponíveis transmissões em tempo real de vídeos feitos em 4K e produzidos com drones. As imagens captadas e acompanhadas remotamente podem ajudar na inspeção do plantio.</p>\n\n\n\n<p>O 5G SA também será essencial para habilitar soluções aplicadas à colheita e ao manejo agrícolas, relacionadas tanto à gestão de equipamentos, quanto à comunicação entre colaboradores.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Para o ministro Fábio Faria, o 5G deve contribuir para um crescimento de 20% no agronegócio.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 25,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": [
+        
+      ],
+      "categories": [
+        1
+      ],
+      "tags": [
+        
+      ],
+      "uagb_featured_image_src": {
+        "full": [
+          "https://www.iberdrola.com/wcorp/gc/prod/pt_BR/comunicacion/5G_mult_1_res/5G_746x419.jpg",
+          1000,
+          499,
+          false
+        ],
+        "thumbnail": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare-150x150.jpg",
+          150,
+          150,
+          true
+        ],
+        "medium": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare-300x150.jpg",
+          300,
+          150,
+          true
+        ],
+        "medium_large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare-768x383.jpg",
+          768,
+          383,
+          true
+        ],
+        "large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare.jpg",
+          800,
+          399,
+          false
+        ],
+        "1536x1536": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare.jpg",
+          1000,
+          499,
+          false
+        ],
+        "2048x2048": [
+          "http://localhost:8080/wp-content/uploads/2021/05/5g-In-IoT-in-Healthcare.jpg",
+          1000,
+          499,
+          false
+        ]
+      },
+      "uagb_author_info": {
+        "display_name": "Ananda Sá",
+        "author_link": "http://localhost:8080/author/ananda-sa/"
+      },
+      "uagb_comment_info": 0,
+      "uagb_excerpt": "Para o ministro Fábio Faria, o 5G deve contribuir para um crescimento de 20% no agronegócio.",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/23"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/comments?post=23"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/23/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 24,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/23/revisions/24"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/media/25"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/media?parent=23"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/categories?post=23"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/tags?post=23"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "date": "2021-05-12T09:20:35",
+      "date_gmt": "2021-05-12T12:20:35",
+      "guid": {
+        "rendered": "http://localhost:8080/?p=19"
+      },
+      "modified": "2021-05-12T09:21:15",
+      "modified_gmt": "2021-05-12T12:21:15",
+      "slug": "como-balao-dirigido-por-inteligencia-artificial-surpreendeu-criadores",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8080/como-balao-dirigido-por-inteligencia-artificial-surpreendeu-criadores/",
+      "title": {
+        "rendered": "Como balão dirigido por inteligência artificial surpreendeu criadores"
+      },
+      "content": {
+        "rendered": "\n<p>A equipe do&nbsp;<a href=\"https://g1.globo.com/tudo-sobre/google/\">Google</a>&nbsp;olhava perplexa para as telas de seus computadores.</p>\n\n\n\n<p>Eles haviam passado vários meses aperfeiçoando um&nbsp;algoritmo desenvolvido para conduzir um balão de hélio não tripulado de Porto Rico ao Peru. Mas algo estava errado.</p>\n\n\n\n<p>O balão, controlado por inteligência artificial (IA),&nbsp;continuava desviando da rota.</p>\n\n\n\n<p>Salvatore Candido, do Google, que tinha como objetivo levar acesso à internet a áreas remotas do planeta por meio de balões, não conseguia explicar a trajetória da aeronave.</p>\n\n\n\n<p><strong>SAIBA MAIS</strong>:</p>\n\n\n\n<p>Seus colegas assumiram manualmente o controle do sistema e o colocaram de volta na rota.</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>Só mais tarde eles perceberam o que estava acontecendo. Inesperadamente, a inteligência artificial a bordo do balão havia aprendido a recriar uma antiga técnica de navegação desenvolvida por humanos há séculos, senão milhares de anos.</p></blockquote>\n\n\n\n<p>A técnica envolve conduzir a embarcação em ziguezague contra o vento, de modo que seja possível avançar mais ou menos na direção desejada.</p>\n\n\n\n<p>Sob condições climáticas desfavoráveis, os balões autônomos&nbsp;aprenderam a se virar sozinhos. O fato de terem feito isso, de forma espontânea, surpreendeu a todos, inclusive aos pesquisadores que trabalhavam no projeto.https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html</p>\n\n\n\n<p>&#8220;Rapidamente percebemos que tinham sido mais espertos que a gente, quando o primeiro balão autorizado a executar totalmente essa técnica bateu um recorde de tempo de voo de Porto Rico ao Peru&#8221;, escreveu Candido em um blog sobre o projeto.</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>&#8220;Nunca me senti tão inteligente e tão burro ao mesmo tempo.&#8221;</p></blockquote>\n\n\n\n<p>Este é exatamente o tipo de coisa que pode acontecer quando a inteligência artificial é deixada à sua própria sorte.</p>\n\n\n\n<p>Diferentemente dos programas de computador tradicionais,&nbsp;as IAs são projetadas para explorar e desenvolver novas abordagens para tarefas sobre as quais seus engenheiros humanos não lhes falaram explicitamente.</p>\n\n\n\n<p>Mas enquanto aprendem como fazer essas tarefas, as IAs às vezes apresentam uma abordagem tão inovadora que pode surpreender até mesmo as pessoas que trabalham com esses sistemas o tempo todo.</p>\n\n\n\n<p>Isso pode ser algo bom, mas também pode tornar as coisas controladas por inteligência artificial perigosamente imprevisíveis — robôs e carros autônomos podem acabar tomando decisões que colocam os humanos em perigo.</p>\n\n\n\n<p>Como é possível para um sistema de inteligência artificial &#8220;superar&#8221; seus mestres humanos? E será que poderíamos controlar as mentes das máquinas de alguma forma, para garantir que não aconteça nenhum desastre imprevisto?</p>\n\n\n\n<p>Na comunidade de IA, há um caso de criatividade que parece ser mais citado do que qualquer outro.</p>\n\n\n\n<p>O momento que realmente empolgou as pessoas sobre o que a inteligência artificial pode fazer, diz Mark Riedl, do Instituto de Tecnologia da Geórgia, nos EUA, foi quando o DeepMind, laboratório de IA do Google, mostrou como um sistema de machine learning (aprendizagem automática) dominou o antigo jogo — e depois derrotou um dos melhores jogadores humanos do mundo.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Algoritmos que usam inteligência artificial estão descobrindo truques inesperados para resolver problemas que surpreendem seus desenvolvedores — mas também levantam preocupações sobre nossa capacidade de controlá-los.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 20,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": [
+        
+      ],
+      "categories": [
+        1
+      ],
+      "tags": [
+        
+      ],
+      "uagb_featured_image_src": {
+        "full": [
+          "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2020/07/balao-loon-1-800x450.jpg",
+          984,
+          554,
+          false
+        ],
+        "thumbnail": [
+          "http://localhost:8080/wp-content/uploads/2021/05/image-150x150.jpeg",
+          150,
+          150,
+          true
+        ],
+        "medium": [
+          "http://localhost:8080/wp-content/uploads/2021/05/image-300x169.jpeg",
+          300,
+          169,
+          true
+        ],
+        "medium_large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/image-768x432.jpeg",
+          768,
+          432,
+          true
+        ],
+        "large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/image.jpeg",
+          800,
+          450,
+          false
+        ],
+        "1536x1536": [
+          "http://localhost:8080/wp-content/uploads/2021/05/image.jpeg",
+          984,
+          554,
+          false
+        ],
+        "2048x2048": [
+          "http://localhost:8080/wp-content/uploads/2021/05/image.jpeg",
+          984,
+          554,
+          false
+        ]
+      },
+      "uagb_author_info": {
+        "display_name": "Ananda Sá",
+        "author_link": "http://localhost:8080/author/ananda-sa/"
+      },
+      "uagb_comment_info": 0,
+      "uagb_excerpt": "Algoritmos que usam inteligência artificial estão descobrindo truques inesperados para resolver problemas que surpreendem seus desenvolvedores — mas também levantam preocupações sobre nossa capacidade de controlá-los.",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/19"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/comments?post=19"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 2,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/19/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 22,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/19/revisions/22"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/media/20"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/media?parent=19"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/categories?post=19"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/tags?post=19"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "date": "2021-05-12T08:46:32",
+      "date_gmt": "2021-05-12T11:46:32",
+      "guid": {
+        "rendered": "http://localhost:8080/?p=16"
+      },
+      "modified": "2021-05-12T08:46:32",
+      "modified_gmt": "2021-05-12T11:46:32",
+      "slug": "orcamento-do-mec-para-as-universidades-federais-cai-37",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8080/orcamento-do-mec-para-as-universidades-federais-cai-37/",
+      "title": {
+        "rendered": "Orçamento do MEC para as universidades federais cai 37%"
+      },
+      "content": {
+        "rendered": "\n<p>O orçamento do Ministério da Educação (MEC) destinado às universidades federais em 2021 teve&nbsp;redução de 37%&nbsp;nas despesas discricionárias, se comparadas às de 2010.</p>\n\n\n\n<p>A queda afeta recursos destinados a investimentos e despesas correntes, como pagamento de água, luz, segurança, além de bolsas de estudo e programas de auxílio estudantil. A análise não inclui os recursos para salários e aposentadorias, que são despesas de pagamento obrigatório.</p>\n\n\n\n<p>&#8220;A ciência e a tecnologia acabaram&#8221;, disse o reitor da Universidade Federal de Juiz de Fora (UFJF), Marcus David, durante entrevista em abril último&nbsp;<em>(leia mais abaixo sobre a situação de algumas universidades)</em>.</p>\n\n\n\n<p>A falta de recursos poderá levar à&nbsp;redução ou paralisação das atividades, segundo a Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes).</p>\n\n\n\n<p>Em valores atualizados, o orçamento do MEC para o ensino superior&nbsp;em 2010 seria hoje o equivalente a R$ 7,1 bilhões. Em 2020, foi de R$ 5,5 bilhões. Em 2021, é de R$ 4,5 bilhões.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queda ocorre nas despesas discricionárias, que excluem o pagamento de salários e aposentadorias. UFRJ diz que, sem recursos de investimentos, poderá fechar as portas.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 17,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": [
+        
+      ],
+      "categories": [
+        1
+      ],
+      "tags": [
+        
+      ],
+      "uagb_featured_image_src": {
+        "full": [
+          "http://rnews.com.br/wp-content/uploads/2015/11/Memoria-MEC-650x373.jpg",
+          650,
+          373,
+          false
+        ],
+        "thumbnail": [
+          "http://localhost:8080/wp-content/uploads/2021/05/Memoria-MEC-650x373-1-150x150.jpg",
+          150,
+          150,
+          true
+        ],
+        "medium": [
+          "http://localhost:8080/wp-content/uploads/2021/05/Memoria-MEC-650x373-1-300x172.jpg",
+          300,
+          172,
+          true
+        ],
+        "medium_large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/Memoria-MEC-650x373-1.jpg",
+          650,
+          373,
+          false
+        ],
+        "large": [
+          "http://localhost:8080/wp-content/uploads/2021/05/Memoria-MEC-650x373-1.jpg",
+          650,
+          373,
+          false
+        ],
+        "1536x1536": [
+          "http://localhost:8080/wp-content/uploads/2021/05/Memoria-MEC-650x373-1.jpg",
+          650,
+          373,
+          false
+        ],
+        "2048x2048": [
+          "http://localhost:8080/wp-content/uploads/2021/05/Memoria-MEC-650x373-1.jpg",
+          650,
+          373,
+          false
+        ]
+      },
+      "uagb_author_info": {
+        "display_name": "Ananda Sá",
+        "author_link": "http://localhost:8080/author/ananda-sa/"
+      },
+      "uagb_comment_info": 0,
+      "uagb_excerpt": "Queda ocorre nas despesas discricionárias, que excluem o pagamento de salários e aposentadorias. UFRJ diz que, sem recursos de investimentos, poderá fechar as portas.",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/16"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/comments?post=16"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/16/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 18,
+            "href": "http://localhost:8080/wp-json/wp/v2/posts/16/revisions/18"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/media/17"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8080/wp-json/wp/v2/media?parent=16"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/categories?post=16"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8080/wp-json/wp/v2/tags?post=16"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
+}
+  
