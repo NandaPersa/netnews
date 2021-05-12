@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/assets/logo.png" alt="Logo" width="300">
-  </a>
-
   <h3 align="center">Netshow.me News | NextJS & Wordpress</h3>
 </p>
 
@@ -54,4 +50,9 @@ Para começar a utilizar é necessário ter o Node instalado. Também é necess�
 3. Para que a api seja acessível é necessário executar: (Espera-se que a api esteja rodando em http://localhost:3333 se seu endereço for diferente mude em /services/api.ts )
    ```sh
    yarn server
+   ```
+
+4. Com a api em execução utilize o seguinte comando para iniciar o projeto:
+   ```sh
+   yarn dev
    ```
